@@ -17,11 +17,10 @@ Winters model to the entire dataset and make future predictions
 9. You plot the original sales data and the predictions
 ### PROGRAM:
 ```
-Developed by: Shaik Sameer Basha
-Reg No:212222240093
+Developed by: Sai Eswar Kandukuri
+Reg No: 212221240020
 ```
 ```python
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
